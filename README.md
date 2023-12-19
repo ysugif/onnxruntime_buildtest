@@ -61,5 +61,5 @@ or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any addi
 This project is licensed under the [MIT License](LICENSE).
 
 
-## to kick the CI
+## to kick the CI.
 
